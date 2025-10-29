@@ -15,25 +15,45 @@
     "My family refuses to even discuss assisted dying with me—they say I'm giving up too soon and that miracles can happen if I just keep praying and fighting. But they're not the ones living in this body, enduring this pain day after day. I need them to understand this is about my suffering, not their hope.",
     "Despite my family's objections, I know this is the right decision for me. They can't seem to separate their own fear of losing me from what I'm actually going through. Their resistance makes this process lonelier than it needs to be, but I won't let their disapproval take away my right to choose how my story ends."
   ],
-  "Suffering (High - Intense pain)": [
-    "To manage this intensely painful illness, I need to be on morphine which has cost me my hobbies, my ability to engage in everyday tasks, and the clarity of mind I once had – stripping me of everything that used to make me who I am.",
-    "Anyone who is suffering like I am, you can never imagine what I endure – the excruciating levels of pain, the feeling of losing myself. It is unbearable.",
-    "In the beginning, I thought the morphine would be a blessing for my severe pain. But now I spend my days in a drug induced delirium unable to do any of the things that brought my life meaning, making me feel like a shadow of my former self."
+  "High Suffering": [
+    "The suffering is not just about hurt; it swallows the hours until there are no good ones left. I'm tired of the dependence and the shame of needing help for everything— I feel like I've completely lost myself to this illness.",
+    "One of the worst aspects of this illness is not the symptoms I have to deal with, but the inability to do the things that made life worth living — now I'm just surviving.",
+    "I don't want to die, but surviving is exhausting. Not being able to do the things that used to bring my life joy is depressing. The suffering is constant — not episodic — and I know this feeling will never go away.",
+    "placeholder 4",
+    "placeholder 5",
+    "placeholder 6",
+    "placeholder 7",
+    "placeholder 8"
   ],
-  "Suffering (High - Without pain)": [
-    "The suffering is not just about hurt; it swallows the hours until there are no good ones left. I’m tired of the dependence and the shame of needing help for everything– I feel like I’ve completely lost myself to this illness.",
-    "One of the worst aspects of this illness is not the symptoms I have to deal with, but the inability to do the things that made life worth living – now I’m just surviving.",
-    "I don’t want to die, but surviving is exhausting. Not being able to do the things that used to bring my life joy is depressing. The suffering is constant – not episodic – and I know this feeling will never go away."
-  ],
-  "Suffering (low - Moderate pain)": [
-    "Most days I still manage my routines, like making coffee, reading, seeing a friend, but the illness keeps chipping away at what I can do. It’s not just the moderate pain that worries me, but also a growing fear of losing control, needing help with private things, and being treated as fragile.",
-    "It started off as a mild annoyance, but over time, my pain has ratcheted up in intensity. Right now, I can manage the pain with minimal doses of medication, but I hate the way it makes me feel. My biggest fear right now is having to take medication all day just to stay on top of my pain, and becoming someone I no longer recognize.",
-    "Already, my bones feel tired of the pain I shoulder each day. I cannot imagine how much more difficult it will be to simply exist, and I fear who I might become in a few months when it gets unbearable."
-  ],
-  "Suffering (low - Without pain)": [
-    "I’m not afraid of dying… I am afraid of living, and eventually becoming “not myself”. I still have good times, and I’m grateful for them, but I can feel my independence fray in small ways.",
+  "Moderate Suffering": [
+    "I'm not afraid of dying… I am afraid of living, and eventually becoming \"not myself\". I still have good times, and I'm grateful for them, but I can feel my independence fray in small ways.",
     "I often think about it alone — Who will I become towards the end of this illness? Do I want to be in a wheelchair? Do I want to be fed through a tube? I wish I had more time to live, but I don't want more time as a patient.",
-    "Everyday I can feel myself slipping away. I’m only capable of completing a fraction of the activities that I used to be able to, and I fear – but know – that as time passes, my capabilities will continue to diminish."
+    "Everyday I can feel myself slipping away. I'm only capable of completing a fraction of the activities that I used to be able to, and I fear — but know — that as time passes, my capabilities will continue to diminish.",
+    "placeholder 4",
+    "placeholder 5",
+    "placeholder 6",
+    "placeholder 7",
+    "placeholder 8"
+  ],
+  "Yes Pain": [
+    "To manage this intensely painful illness, I need to be on morphine which has cost me my hobbies, my ability to engage in everyday tasks, and the clarity of mind I once had — stripping me of everything that used to make me who I am.",
+    "Anyone who is suffering like I am, you can never imagine what I endure — the excruciating levels of pain, the feeling of losing myself. It is unbearable.",
+    "In the beginning, I thought the morphine would be a blessing for my severe pain. But now I spend my days in a drug induced delirium unable to do any of the things that brought my life meaning, making me feel like a shadow of my former self.",
+    "placeholder 4",
+    "placeholder 5",
+    "placeholder 6",
+    "placeholder 7",
+    "placeholder 8"
+  ],
+  "No Pain": [
+    "placeholder 1",
+    "placeholder 2",
+    "placeholder 3",
+    "placeholder 4",
+    "placeholder 5",
+    "placeholder 6",
+    "placeholder 7",
+    "placeholder 8"
   ],
   "Bowel and Bladder Incontinence": [
     "My life is not as full or free as it used to be, I am constantly interrupted by incontinence and the fear that it will embarrass me is always in the back of my mind.",

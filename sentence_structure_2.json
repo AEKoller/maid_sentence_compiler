@@ -5,7 +5,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -13,7 +14,8 @@
       "avatar": "AM-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
@@ -21,7 +23,8 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
         "Months to live (3 months)"
@@ -30,10 +33,11 @@
     {
       "avatar": "HF-O",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -41,7 +45,8 @@
       "categories": [
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -49,7 +54,8 @@
       "avatar": "WM-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence"
       ]
@@ -57,7 +63,8 @@
     {
       "avatar": "BM-M",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)"
@@ -66,10 +73,11 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -77,7 +85,8 @@
       "categories": [
         "Immobility",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -85,7 +94,8 @@
       "avatar": "WF-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home"
       ]
@@ -93,7 +103,8 @@
     {
       "avatar": "HM-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
@@ -102,10 +113,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -113,7 +125,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -121,7 +134,8 @@
       "avatar": "WM-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Immobility"
       ]
@@ -129,7 +143,8 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (24 months)"
@@ -138,10 +153,11 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     }
   ],
@@ -150,7 +166,8 @@
       "avatar": "WM-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence"
       ]
@@ -158,7 +175,8 @@
     {
       "avatar": "AF-O",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)"
@@ -167,10 +185,11 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -179,14 +198,16 @@
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
       "avatar": "AM-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Immobility"
       ]
@@ -194,7 +215,8 @@
     {
       "avatar": "WM-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)"
@@ -203,10 +225,11 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -215,14 +238,16 @@
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     },
     {
       "avatar": "WF-M",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility"
       ]
@@ -230,7 +255,8 @@
     {
       "avatar": "WF-O",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)"
@@ -239,10 +265,11 @@
     {
       "avatar": "HF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -251,14 +278,16 @@
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
       "avatar": "BM-M",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence"
       ]
@@ -266,7 +295,8 @@
     {
       "avatar": "WM-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Immobility",
         "Months to live (24 months)"
@@ -275,10 +305,11 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -287,7 +318,8 @@
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     }
   ],
@@ -295,7 +327,8 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)"
@@ -304,10 +337,11 @@
     {
       "avatar": "WM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -316,7 +350,8 @@
         "Family Support (No)",
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -324,14 +359,16 @@
       "categories": [
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Immobility",
         "Months to live (3 months)"
@@ -340,10 +377,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -352,7 +390,8 @@
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -360,14 +399,16 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "HM-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
         "Months to live (24 months)"
@@ -376,10 +417,11 @@
     {
       "avatar": "BM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -388,7 +430,8 @@
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -396,14 +439,16 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "AM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
@@ -412,10 +457,11 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Immobility",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -424,7 +470,8 @@
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -432,7 +479,8 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     }
@@ -441,10 +489,11 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -453,7 +502,8 @@
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -461,7 +511,8 @@
       "categories": [
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -469,7 +520,8 @@
       "avatar": "AM-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home"
       ]
@@ -477,10 +529,11 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Immobility",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -489,7 +542,8 @@
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     },
     {
@@ -497,7 +551,8 @@
       "categories": [
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -505,7 +560,8 @@
       "avatar": "WF-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
@@ -513,10 +569,11 @@
     {
       "avatar": "HF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -525,7 +582,8 @@
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -533,7 +591,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -541,7 +600,8 @@
       "avatar": "BM-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
@@ -549,10 +609,11 @@
     {
       "avatar": "AF-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -561,7 +622,8 @@
         "Family Support (Strong)",
         "Immobility",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     },
     {
@@ -569,7 +631,8 @@
       "categories": [
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -577,7 +640,8 @@
       "avatar": "WM-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
@@ -590,7 +654,8 @@
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -598,7 +663,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
@@ -606,7 +672,8 @@
       "avatar": "BF-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed"
       ]
@@ -614,7 +681,8 @@
     {
       "avatar": "HF-O",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Immobility",
         "Months to live (3 months)"
@@ -626,7 +694,8 @@
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -634,7 +703,8 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     },
@@ -642,7 +712,8 @@
       "avatar": "BM-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence"
       ]
@@ -650,7 +721,8 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Immobility",
         "Months to live (3 months)"
@@ -662,7 +734,8 @@
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -670,7 +743,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
@@ -678,7 +752,8 @@
       "avatar": "HM-M",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility"
       ]
@@ -686,7 +761,8 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)"
@@ -698,7 +774,8 @@
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -706,7 +783,8 @@
       "categories": [
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     },
@@ -714,7 +792,8 @@
       "avatar": "BM-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Immobility"
       ]
@@ -722,7 +801,8 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)"
@@ -735,7 +815,8 @@
       "categories": [
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -743,7 +824,8 @@
       "avatar": "AF-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence"
       ]
@@ -751,7 +833,8 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)"
@@ -760,10 +843,11 @@
     {
       "avatar": "HM-O",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Immobility",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -771,7 +855,8 @@
       "categories": [
         "Living in nursing home",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -779,7 +864,8 @@
       "avatar": "WM-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
@@ -787,7 +873,8 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)"
@@ -796,10 +883,11 @@
     {
       "avatar": "WF-O",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Immobility",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -807,7 +895,8 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)"
       ]
     },
@@ -815,7 +904,8 @@
       "avatar": "WF-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence"
       ]
@@ -823,7 +913,8 @@
     {
       "avatar": "HF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
         "Months to live (24 months)"
@@ -832,10 +923,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -843,7 +935,8 @@
       "categories": [
         "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)"
       ]
     },
@@ -851,7 +944,8 @@
       "avatar": "WM-M",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence"
       ]
@@ -859,7 +953,8 @@
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Immobility",
         "Months to live (24 months)"
@@ -868,10 +963,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     }
   ],
@@ -880,7 +976,8 @@
       "avatar": "WF-M",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Living in nursing home"
       ]
@@ -888,7 +985,8 @@
     {
       "avatar": "WM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)"
@@ -897,10 +995,11 @@
     {
       "avatar": "HF-O",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -909,14 +1008,16 @@
         "Family Support (Strong)",
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
       "avatar": "BM-O",
       "categories": [
         "Months to live (3 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home"
       ]
@@ -924,7 +1025,8 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)"
@@ -933,10 +1035,11 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -945,14 +1048,16 @@
         "Family Support (Strong)",
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     },
     {
       "avatar": "HM-M",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed"
       ]
@@ -960,7 +1065,8 @@
     {
       "avatar": "BM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
@@ -969,10 +1075,11 @@
     {
       "avatar": "WM-O",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Yes Pain",
         "Family Support (No)",
         "Immobility",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -981,14 +1088,16 @@
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)"
+        "High Suffering",
+        "Yes Pain"
       ]
     },
     {
       "avatar": "AM-O",
       "categories": [
         "Months to live (24 months)",
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed"
       ]
@@ -996,7 +1105,8 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
@@ -1005,10 +1115,11 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "No Pain",
         "Family Support (No)",
         "Immobility",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
@@ -1017,7 +1128,8 @@
         "Family Support (Strong)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)"
+        "High Suffering",
+        "No Pain"
       ]
     }
   ],
@@ -1025,7 +1137,8 @@
     {
       "avatar": "WF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)"
@@ -1034,10 +1147,11 @@
     {
       "avatar": "WM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -1046,7 +1160,8 @@
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -1054,14 +1169,16 @@
       "categories": [
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "BM-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Living in nursing home",
         "Months to live (3 months)"
@@ -1070,10 +1187,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (3 months)"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
@@ -1082,7 +1200,8 @@
         "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -1090,14 +1209,16 @@
       "categories": [
         "Immobility",
         "Months to live (3 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "HF-M",
       "categories": [
-        "Suffering (low - Moderate pain)",
+        "Moderate Suffering",
+        "Yes Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)"
@@ -1106,10 +1227,11 @@
     {
       "avatar": "BM-M",
       "categories": [
-        "Suffering (High - Intense pain)",
+        "Yes Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -1118,7 +1240,8 @@
         "Family Support (No)",
         "Immobility",
         "Months to live (24 months)",
-        "Suffering (low - Moderate pain)"
+        "Moderate Suffering",
+        "Yes Pain"
       ]
     },
     {
@@ -1126,14 +1249,16 @@
       "categories": [
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (High - Intense pain)",
+        "High Suffering",
+        "Yes Pain",
         "Family Support (Strong)"
       ]
     },
     {
       "avatar": "AF-O",
       "categories": [
-        "Suffering (low - Without pain)",
+        "Moderate Suffering",
+        "No Pain",
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (24 months)"
@@ -1142,10 +1267,11 @@
     {
       "avatar": "BF-M",
       "categories": [
-        "Suffering (High - Without pain)",
+        "No Pain",
         "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     },
     {
@@ -1154,7 +1280,8 @@
         "Family Support (No)",
         "Immobility",
         "Months to live (24 months)",
-        "Suffering (low - Without pain)"
+        "Moderate Suffering",
+        "No Pain"
       ]
     },
     {
@@ -1162,7 +1289,8 @@
       "categories": [
         "Living in nursing home",
         "Months to live (24 months)",
-        "Suffering (High - Without pain)",
+        "High Suffering",
+        "No Pain",
         "Family Support (Strong)"
       ]
     }

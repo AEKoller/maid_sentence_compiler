@@ -98,6 +98,7 @@ def build_vignettes_spreadsheet():
         "Category 2", "Index 2", "Sentence 2",
         "Category 3", "Index 3", "Sentence 3",
         "Category 4", "Index 4", "Sentence 4",
+        "Category 5", "Index 5", "Sentence 5",
         "Full Vignette"
     ]
     
@@ -105,8 +106,8 @@ def build_vignettes_spreadsheet():
     df = pd.DataFrame(all_vignette_data, columns=column_names)
 
     # 9. Save the DataFrame to files
-    csv_filename = f"generated_vignettes_{structure_doc}.csv"
-    excel_filename = f"generated_vignettes_{structure_doc}.xlsx"
+    csv_filename = f"generated_vignettes_{structure_doc}_edit1.csv"
+    excel_filename = f"generated_vignettes_{structure_doc}_edit1.xlsx"
 
     try:
         # Save to CSV
