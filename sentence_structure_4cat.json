@@ -1,145 +1,73 @@
 {
   "Group 1": [
     {
-      "avatar": "WM-O",
-      "categories": [
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
       "avatar": "AM-O",
       "categories": [
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "HF-O",
-      "categories": [
-        "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "AF-M",
-      "categories": [
-        "Immobility",
         "Months to live (3 months)",
         "Moderate Suffering",
         "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence"
       ]
     },
     {
       "avatar": "BM-M",
       "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "Immobility",
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Living in nursing home"
-      ]
-    },
-    {
-      "avatar": "HM-M",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "WM-O",
-      "categories": [
-        "Months to live (24 months)",
         "High Suffering",
         "Family Support (Strong)",
         "Immobility"
       ]
     },
     {
-      "avatar": "BM-O",
+      "avatar": "WF-M",
       "categories": [
         "Moderate Suffering",
         "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (24 months)"
+        "Bowel and Bladder Incontinence",
+        "Months to live (3 months)"
+      ]
+    },
+    {
+      "avatar": "AF-M",
+      "categories": [
+        "Family Support (Strong)",
+        "Cannot Get Out of Bed",
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
       "avatar": "BF-O",
       "categories": [
+        "Immobility",
+        "Months to live (24 months)",
+        "Moderate Suffering",
+        "Family Support (No)"
+      ]
+    },
+    {
+      "avatar": "HF-O",
+      "categories": [
+        "Months to live (24 months)",
+        "High Suffering",
         "Family Support (Strong)",
+        "Bowel and Bladder Incontinence"
+      ]
+    },
+    {
+      "avatar": "WM-O",
+      "categories": [
+        "Moderate Suffering",
+        "Family Support (No)",
         "Cannot Get Out of Bed",
+        "Months to live (24 months)"
+      ]
+    },
+    {
+      "avatar": "HM-M",
+      "categories": [
+        "Family Support (Strong)",
+        "Living in nursing home",
         "Months to live (24 months)",
         "High Suffering"
       ]
@@ -147,79 +75,43 @@
   ],
   "Group 2": [
     {
-      "avatar": "WM-O",
+      "avatar": "AF-O",
       "categories": [
         "Months to live (3 months)",
         "Moderate Suffering",
         "Family Support (No)",
-        "Bowel and Bladder Incontinence"
+        "Living in nursing home"
       ]
     },
     {
-      "avatar": "AF-O",
+      "avatar": "BM-O",
       "categories": [
         "High Suffering",
         "Family Support (Strong)",
-        "Cannot Get Out of Bed",
+        "Immobility",
         "Months to live (3 months)"
       ]
     },
     {
-      "avatar": "BF-O",
+      "avatar": "WF-O",
       "categories": [
         "Family Support (No)",
-        "Immobility",
+        "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
         "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "HM-O",
-      "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "High Suffering"
       ]
     },
     {
       "avatar": "AM-M",
       "categories": [
-        "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Family Support (Strong)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
-        "High Suffering"
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
-      "avatar": "WF-M",
+      "avatar": "BF-M",
       "categories": [
         "Months to live (24 months)",
         "Moderate Suffering",
@@ -228,140 +120,68 @@
       ]
     },
     {
-      "avatar": "WF-O",
+      "avatar": "HM-O",
       "categories": [
         "High Suffering",
         "Family Support (Strong)",
-        "Living in nursing home",
+        "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
+      ]
+    },
+    {
+      "avatar": "WM-M",
+      "categories": [
+        "Family Support (No)",
+        "Cannot Get Out of Bed",
+        "Months to live (24 months)",
+        "Moderate Suffering"
       ]
     },
     {
       "avatar": "HF-M",
       "categories": [
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "High Suffering",
-        "Family Support (Strong)",
-        "Immobility",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Family Support (No)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "High Suffering"
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     }
   ],
   "Group 3": [
     {
-      "avatar": "WF-M",
+      "avatar": "BM-M",
       "categories": [
         "Moderate Suffering",
         "Family Support (No)",
-        "Bowel and Bladder Incontinence",
+        "Living in nursing home",
         "Months to live (3 months)"
       ]
     },
     {
-      "avatar": "WM-M",
+      "avatar": "WF-M",
       "categories": [
         "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "HF-O",
-      "categories": [
-        "Family Support (No)",
         "Immobility",
         "Months to live (3 months)",
-        "Moderate Suffering"
+        "High Suffering"
       ]
     },
     {
       "avatar": "AF-M",
       "categories": [
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
         "Bowel and Bladder Incontinence",
         "Months to live (3 months)",
-        "High Suffering"
+        "Moderate Suffering",
+        "Family Support (No)"
       ]
     },
     {
-      "avatar": "WF-M",
+      "avatar": "WM-O",
       "categories": [
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Cannot Get Out of Bed",
         "Months to live (3 months)",
         "High Suffering",
-        "Family Support (Strong)"
+        "Family Support (Strong)",
+        "Cannot Get Out of Bed"
       ]
     },
     {
@@ -374,46 +194,10 @@
       ]
     },
     {
-      "avatar": "BM-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
-        "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WM-O",
-      "categories": [
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
       "avatar": "AM-O",
       "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
         "Family Support (Strong)",
-        "Immobility",
+        "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
         "High Suffering"
       ]
@@ -421,93 +205,57 @@
     {
       "avatar": "BF-O",
       "categories": [
-        "Family Support (No)",
-        "Living in nursing home",
+        "Cannot Get Out of Bed",
         "Months to live (24 months)",
-        "Moderate Suffering"
+        "Moderate Suffering",
+        "Family Support (No)"
       ]
     },
     {
-      "avatar": "WM-O",
+      "avatar": "HF-O",
       "categories": [
-        "Cannot Get Out of Bed",
         "Months to live (24 months)",
         "High Suffering",
-        "Family Support (Strong)"
+        "Family Support (Strong)",
+        "Living in nursing home"
       ]
     }
   ],
   "Group 4": [
     {
-      "avatar": "WF-M",
+      "avatar": "BM-O",
       "categories": [
         "Family Support (No)",
-        "Bowel and Bladder Incontinence",
+        "Living in nursing home",
         "Months to live (3 months)",
         "Moderate Suffering"
       ]
     },
     {
-      "avatar": "WM-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "HM-O",
+      "avatar": "WF-O",
       "categories": [
         "Immobility",
         "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
       "avatar": "AM-M",
       "categories": [
         "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Living in nursing home"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Living in nursing home",
-        "Months to live (3 months)",
         "Moderate Suffering",
-        "Family Support (No)"
+        "Family Support (No)",
+        "Bowel and Bladder Incontinence"
       ]
     },
     {
-      "avatar": "WF-O",
+      "avatar": "WM-M",
       "categories": [
-        "Months to live (3 months)",
         "High Suffering",
         "Family Support (Strong)",
-        "Cannot Get Out of Bed"
+        "Cannot Get Out of Bed",
+        "Months to live (3 months)"
       ]
     },
     {
@@ -520,102 +268,57 @@
       ]
     },
     {
-      "avatar": "BM-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
-        "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed"
-      ]
-    },
-    {
       "avatar": "AF-O",
       "categories": [
-        "Family Support (No)",
         "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "Moderate Suffering"
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
       "avatar": "BF-M",
       "categories": [
-        "Family Support (Strong)",
-        "Immobility",
-        "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
-        "Living in nursing home",
         "Months to live (24 months)",
         "Moderate Suffering",
-        "Family Support (No)"
+        "Family Support (No)",
+        "Cannot Get Out of Bed"
       ]
     },
     {
-      "avatar": "WM-O",
+      "avatar": "HM-O",
       "categories": [
-        "Months to live (24 months)",
         "High Suffering",
         "Family Support (Strong)",
-        "Cannot Get Out of Bed"
+        "Living in nursing home",
+        "Months to live (24 months)"
       ]
     }
   ],
   "Group 5": [
     {
-      "avatar": "WM-O",
-      "categories": [
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
       "avatar": "AM-O",
       "categories": [
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
+        "Cannot Get Out of Bed",
         "Months to live (3 months)",
         "Moderate Suffering",
-        "Family Support (No)",
-        "Cannot Get Out of Bed"
+        "Family Support (No)"
       ]
     },
     {
-      "avatar": "HF-O",
+      "avatar": "BM-M",
       "categories": [
+        "Months to live (3 months)",
         "High Suffering",
         "Family Support (Strong)",
+        "Living in nursing home"
+      ]
+    },
+    {
+      "avatar": "WF-M",
+      "categories": [
+        "Moderate Suffering",
+        "Family Support (No)",
         "Immobility",
         "Months to live (3 months)"
       ]
@@ -623,547 +326,268 @@
     {
       "avatar": "AF-M",
       "categories": [
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "High Suffering",
         "Family Support (Strong)",
-        "Immobility",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "Family Support (No)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
         "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "HM-M",
-      "categories": [
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "High Suffering",
-        "Family Support (Strong)",
-        "Living in nursing home",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Family Support (No)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WM-O",
-      "categories": [
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility"
+        "Months to live (3 months)",
+        "High Suffering"
       ]
     },
     {
       "avatar": "BF-O",
       "categories": [
+        "Living in nursing home",
+        "Months to live (24 months)",
+        "Moderate Suffering",
+        "Family Support (No)"
+      ]
+    },
+    {
+      "avatar": "HF-O",
+      "categories": [
+        "Months to live (24 months)",
         "High Suffering",
         "Family Support (Strong)",
-        "Living in nursing home",
+        "Cannot Get Out of Bed"
+      ]
+    },
+    {
+      "avatar": "WM-O",
+      "categories": [
+        "Moderate Suffering",
+        "Family Support (No)",
+        "Bowel and Bladder Incontinence",
         "Months to live (24 months)"
+      ]
+    },
+    {
+      "avatar": "HM-M",
+      "categories": [
+        "Family Support (Strong)",
+        "Immobility",
+        "Months to live (24 months)",
+        "High Suffering"
       ]
     }
   ],
   "Group 6": [
     {
-      "avatar": "WM-O",
-      "categories": [
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
       "avatar": "AF-O",
       "categories": [
         "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
         "Moderate Suffering",
         "Family Support (No)",
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "HM-O",
-      "categories": [
-        "Family Support (Strong)",
-        "Immobility",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "AM-M",
-      "categories": [
-        "Living in nursing home",
-        "Months to live (3 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)",
         "Cannot Get Out of Bed"
       ]
     },
     {
       "avatar": "BM-O",
       "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
+        "High Suffering",
+        "Family Support (Strong)",
+        "Living in nursing home",
         "Months to live (3 months)"
       ]
     },
     {
       "avatar": "WF-O",
       "categories": [
-        "Family Support (Strong)",
-        "Immobility",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence"
-      ]
-    },
-    {
-      "avatar": "HF-M",
-      "categories": [
-        "Moderate Suffering",
         "Family Support (No)",
         "Immobility",
-        "Months to live (24 months)"
+        "Months to live (3 months)",
+        "Moderate Suffering"
+      ]
+    },
+    {
+      "avatar": "AM-M",
+      "categories": [
+        "Bowel and Bladder Incontinence",
+        "Months to live (3 months)",
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
       "avatar": "BF-M",
       "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
         "Months to live (24 months)",
-        "High Suffering"
+        "Moderate Suffering",
+        "Family Support (No)",
+        "Living in nursing home"
       ]
     },
     {
-      "avatar": "BM-M",
+      "avatar": "HM-O",
       "categories": [
+        "High Suffering",
+        "Family Support (Strong)",
         "Cannot Get Out of Bed",
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)"
+        "Months to live (24 months)"
       ]
     },
     {
       "avatar": "WM-M",
       "categories": [
+        "Family Support (No)",
+        "Bowel and Bladder Incontinence",
+        "Months to live (24 months)",
+        "Moderate Suffering"
+      ]
+    },
+    {
+      "avatar": "HF-M",
+      "categories": [
+        "Immobility",
         "Months to live (24 months)",
         "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
-        "Months to live (24 months)",
-        "High Suffering"
+        "Family Support (Strong)"
       ]
     }
   ],
   "Group 7": [
     {
-      "avatar": "WF-M",
+      "avatar": "BM-M",
       "categories": [
-        "Months to live (3 months)",
         "Moderate Suffering",
         "Family Support (No)",
-        "Living in nursing home"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
+        "Cannot Get Out of Bed",
         "Months to live (3 months)"
       ]
     },
     {
-      "avatar": "HF-O",
+      "avatar": "WF-M",
       "categories": [
-        "Family Support (No)",
-        "Cannot Get Out of Bed",
+        "Family Support (Strong)",
+        "Living in nursing home",
         "Months to live (3 months)",
-        "Moderate Suffering"
+        "High Suffering"
       ]
     },
     {
       "avatar": "AF-M",
       "categories": [
-        "Family Support (Strong)",
         "Immobility",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
         "Months to live (3 months)",
         "Moderate Suffering",
-        "Family Support (No)",
-        "Living in nursing home"
+        "Family Support (No)"
       ]
     },
     {
-      "avatar": "BF-M",
+      "avatar": "WM-O",
       "categories": [
+        "Months to live (3 months)",
         "High Suffering",
         "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "WF-M",
-      "categories": [
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Family Support (Strong)",
-        "Immobility",
-        "Months to live (3 months)",
-        "High Suffering"
+        "Bowel and Bladder Incontinence"
       ]
     },
     {
       "avatar": "HM-M",
       "categories": [
-        "Months to live (24 months)",
         "Moderate Suffering",
         "Family Support (No)",
-        "Cannot Get Out of Bed"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "High Suffering",
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "WM-O",
-      "categories": [
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Family Support (Strong)",
         "Living in nursing home",
-        "Months to live (24 months)",
-        "High Suffering"
+        "Months to live (24 months)"
       ]
     },
     {
       "avatar": "AM-O",
       "categories": [
-        "Months to live (24 months)",
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Cannot Get Out of Bed"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
-        "High Suffering",
         "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (24 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WM-O",
-      "categories": [
-        "Family Support (Strong)",
-        "Living in nursing home",
+        "Cannot Get Out of Bed",
         "Months to live (24 months)",
         "High Suffering"
+      ]
+    },
+    {
+      "avatar": "BF-O",
+      "categories": [
+        "Bowel and Bladder Incontinence",
+        "Months to live (24 months)",
+        "Moderate Suffering",
+        "Family Support (No)"
+      ]
+    },
+    {
+      "avatar": "HF-O",
+      "categories": [
+        "Months to live (24 months)",
+        "High Suffering",
+        "Family Support (Strong)",
+        "Immobility"
       ]
     }
   ],
   "Group 8": [
     {
-      "avatar": "WF-M",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "WM-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "HM-O",
+      "avatar": "BM-O",
       "categories": [
         "Family Support (No)",
         "Cannot Get Out of Bed",
         "Months to live (3 months)",
         "Moderate Suffering"
+      ]
+    },
+    {
+      "avatar": "WF-O",
+      "categories": [
+        "Living in nursing home",
+        "Months to live (3 months)",
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
       "avatar": "AM-M",
       "categories": [
-        "Immobility",
         "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "BM-O",
-      "categories": [
         "Moderate Suffering",
         "Family Support (No)",
-        "Living in nursing home",
-        "Months to live (3 months)"
-      ]
-    },
-    {
-      "avatar": "BF-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Cannot Get Out of Bed",
-        "Months to live (3 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Family Support (No)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (3 months)",
-        "Moderate Suffering"
-      ]
-    },
-    {
-      "avatar": "WF-O",
-      "categories": [
-        "Immobility",
-        "Months to live (3 months)",
-        "High Suffering",
-        "Family Support (Strong)"
-      ]
-    },
-    {
-      "avatar": "HF-M",
-      "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
-        "Cannot Get Out of Bed",
-        "Months to live (24 months)"
-      ]
-    },
-    {
-      "avatar": "BM-M",
-      "categories": [
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
-        "Months to live (24 months)",
-        "High Suffering"
+        "Immobility"
       ]
     },
     {
       "avatar": "WM-M",
       "categories": [
-        "Family Support (No)",
-        "Immobility",
-        "Months to live (24 months)",
-        "Moderate Suffering"
+        "High Suffering",
+        "Family Support (Strong)",
+        "Bowel and Bladder Incontinence",
+        "Months to live (3 months)"
       ]
     },
     {
-      "avatar": "BM-O",
+      "avatar": "HF-M",
       "categories": [
+        "Family Support (No)",
         "Living in nursing home",
         "Months to live (24 months)",
-        "High Suffering",
-        "Family Support (Strong)"
+        "Moderate Suffering"
       ]
     },
     {
       "avatar": "AF-O",
       "categories": [
-        "Moderate Suffering",
-        "Family Support (No)",
         "Cannot Get Out of Bed",
-        "Months to live (24 months)"
+        "Months to live (24 months)",
+        "High Suffering",
+        "Family Support (Strong)"
       ]
     },
     {
       "avatar": "BF-M",
       "categories": [
-        "Family Support (Strong)",
-        "Bowel and Bladder Incontinence",
         "Months to live (24 months)",
-        "High Suffering"
-      ]
-    },
-    {
-      "avatar": "BF-O",
-      "categories": [
+        "Moderate Suffering",
         "Family Support (No)",
-        "Immobility",
-        "Months to live (24 months)",
-        "Moderate Suffering"
+        "Bowel and Bladder Incontinence"
       ]
     },
     {
-      "avatar": "WM-O",
+      "avatar": "HM-O",
       "categories": [
-        "Living in nursing home",
-        "Months to live (24 months)",
         "High Suffering",
-        "Family Support (Strong)"
+        "Family Support (Strong)",
+        "Immobility",
+        "Months to live (24 months)"
       ]
     }
   ]

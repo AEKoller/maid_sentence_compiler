@@ -28,14 +28,16 @@ def build_vignettes_spreadsheet():
     # IMPORTANT: Change the file name here based on the type of structure required
     # E.G. 'sentence_structure1.json' or 'sentence_structure2.json'
     vignette_structures = load_json_file(f'{structure_doc}')
+    # Load avatar names
+    avatar_names = load_json_file('avatar_names.json')
 
     structure_basename = structure_doc.replace('.json', '')
 
     # Exit if files failed to load
-    if not sentence_bank or not vignette_structures:
+    if not sentence_bank or not vignette_structures or not avatar_names:
         return
 
-    print("Successfully loaded sentences and structure.")
+    print("Successfully loaded sentences, structure, and avatar names.")
     
     # This list will hold all the row data for our spreadsheet
     all_vignette_data = []
@@ -52,9 +54,12 @@ def build_vignettes_spreadsheet():
         for recipe in vignette_list:
             avatar = recipe['avatar']
             categories = recipe['categories']
+
+              # Get the name for this avatar
+            avatar_name = avatar_names.get(avatar, "UNKNOWN NAME")
             
-            # This list will hold all data for a single row
-            current_row_data = [group_name, avatar]
+             # This list will hold all data for a single row
+            current_row_data = [group_name, avatar, avatar_name]
             
             # This list will just hold the sentences for the final column
             full_vignette_sentences = []
@@ -93,7 +98,7 @@ def build_vignettes_spreadsheet():
     
     # Define the column headers
     column_names = [
-        "Group", "Avatar",
+        "Group", "Avatar", "Name",
         "Category 1", "Index 1", "Sentence 1",
         "Category 2", "Index 2", "Sentence 2",
         "Category 3", "Index 3", "Sentence 3",
