@@ -1,59 +1,27 @@
 {
   "Family Support (Strong)": [
     "My family's loving support gives me the confidence to make this choice. They understand that this decision comes from a place of deep reflection of what is important to me, not from a moment of weakness.",
-    "My family knows that I have been suffering for so long, so when I finally discussed the option of going out on my own terms, they fully understood my decision and vowed to help me through the process.",
-    "I’m glad I have my family's complete support. Dignity has always been important to me, and I'd like to keep it ‘til the end.",
     "After careful consideration and many heartfelt discussions with my family, they understand and support my decision to pursue assisted dying. Their support means so much to me because I will not be alone in this process. They love me as much as I love them.",
     "We’ve had many hard, tearful conversations, but my loved ones are united in supporting my choice. Knowing they will be with me, respecting my autonomy until the very end, gives me a profound sense of peace.",
     "My family has been by my side through every step of this illness, and their unwavering support of my choice to pursue assisted dying shows me that they truly understand what quality of life means to me, not just quantity."
   ],
   "Family Support (No)": [
-    "Even though my family sees the changes in me, they think that it is wrong to even think about this service, because they think life is sacred, and suicide a sin against God. They have tried to change my mind many times, but there is nothing they could say to make me falter in my decision.",
     "I’ve been living with this disease for so long, and want to end my suffering through assisted dying, but my family can’t accept it. They keep telling me to continue fighting, to hold on, but they don’t understand the suffering I have to deal with.",
     "My family has expressed their own wishes for me to live out the remainder of my days in hospice, but I feel this ignores two important things: my pain, and my autonomy. Though they do not support my decision, I still want to move forward anyways.",
     "I’ve decided to end my life on my own terms, but my family can’t accept it. They believe that even a tiny chance of recovery means I shouldn’t lose hope. What they don’t see is how much I have already suffered. I’m tired … tired of the pain, of needing help for everything, I’ve had enough. This choice isn’t easy, but it’s mine. And I want to find peace.",
-    "My family refuses to even discuss assisted dying with me—they say I'm giving up too soon and that miracles can happen if I just keep praying and fighting. But they're not the ones living in this body, enduring this pain day after day. I need them to understand this is about my suffering, not their hope.",
     "Despite my family's objections, I know this is the right decision for me. They can't seem to separate their own fear of losing me from what I'm actually going through. Their resistance makes this process lonelier than it needs to be, but I won't let their disapproval take away my right to choose how my story ends."
   ],
   "High Suffering": [
     "The suffering is not just about hurt; it swallows the hours until there are no good ones left. I'm tired of the dependence and the shame of needing help for everything— I feel like I've completely lost myself to this illness.",
     "One of the worst aspects of this illness is not the symptoms I have to deal with, but the inability to do the things that made life worth living — now I'm just surviving.",
     "I don't want to die, but surviving is exhausting. Not being able to do the things that used to bring my life joy is depressing. The suffering is constant — not episodic — and I know this feeling will never go away.",
-    "placeholder 4",
-    "placeholder 5",
-    "placeholder 6",
-    "placeholder 7",
-    "placeholder 8"
+    "Every day feels the same now—a blur of medication schedules and physical limitations. The hobbies that once defined me are impossible now, and I've become someone I don't recognize, someone whose entire existence revolves around managing symptoms rather than living life."
   ],
   "Moderate Suffering": [
     "I'm not afraid of dying… I am afraid of living, and eventually becoming \"not myself\". I still have good times, and I'm grateful for them, but I can feel my independence fray in small ways.",
     "I often think about it alone — Who will I become towards the end of this illness? Do I want to be in a wheelchair? Do I want to be fed through a tube? I wish I had more time to live, but I don't want more time as a patient.",
     "Everyday I can feel myself slipping away. I'm only capable of completing a fraction of the activities that I used to be able to, and I fear — but know — that as time passes, my capabilities will continue to diminish.",
-    "placeholder 4",
-    "placeholder 5",
-    "placeholder 6",
-    "placeholder 7",
-    "placeholder 8"
-  ],
-  "Yes Pain": [
-    "To manage this intensely painful illness, I need to be on morphine which has cost me my hobbies, my ability to engage in everyday tasks, and the clarity of mind I once had — stripping me of everything that used to make me who I am.",
-    "Anyone who is suffering like I am, you can never imagine what I endure — the excruciating levels of pain, the feeling of losing myself. It is unbearable.",
-    "In the beginning, I thought the morphine would be a blessing for my severe pain. But now I spend my days in a drug induced delirium unable to do any of the things that brought my life meaning, making me feel like a shadow of my former self.",
-    "placeholder 4",
-    "placeholder 5",
-    "placeholder 6",
-    "placeholder 7",
-    "placeholder 8"
-  ],
-  "No Pain": [
-    "placeholder 1",
-    "placeholder 2",
-    "placeholder 3",
-    "placeholder 4",
-    "placeholder 5",
-    "placeholder 6",
-    "placeholder 7",
-    "placeholder 8"
+    "I still have moments where I feel like myself, but they're becoming fewer and farther between. I know what's coming—the total loss of dignity, the inability to control even the most basic functions. I don't want to wait until I'm a prisoner in my own body."
   ],
   "Bowel and Bladder Incontinence": [
     "My life is not as full or free as it used to be, I am constantly interrupted by incontinence and the fear that it will embarrass me is always in the back of my mind.",
@@ -84,16 +52,12 @@
     "I still remember the day my doctor came to my bed and told me I have 3 months left to live. My pain is no longer temporary, but permanent. With what I feel every day, I know it’s not worth going on like this.",
     "When I was told I had 3 months left before I kicked the can for good, all I could do was consider what my life would look like closer to that date - and with the way my pain and illness continue to worsen, I don't see a life worth living even three months from now.",
     "I don't have a lot of time left – only around three months. At this point, I think I've suffered long enough. I don't want to suffer any longer. It's only downhill from here, and it's already unbearable.",
-    "My doctors say I have about three months left, and every day I can feel my body giving out a little more. What scares me most is the thought of reaching a point where I can’t do anything on my own, where I’m completely dependent on others just to get through the day.",
-    "I was told that I only have three months left, and what's terrible is that each day I feel my body deteriorating more and more. I hate thinking that my final days will be spent helplessly, unable to do even the simplest things without assistance.",
-    "I have three months, and it’s terrifying to think that I might have to live through my condition with no medications that can save me, only to end up being helpless and unable to do anything for myself."
+    "My doctors say I have about three months left, and every day I can feel my body giving out a little more. What scares me most is the thought of reaching a point where I can’t do anything on my own, where I’m completely dependent on others just to get through the day."
   ],
   "Months to live (24 months)": [
     "My doctors have been honest with me: I have about 24 months to live. While two years might sound like a lot, I know what’s in store for me, and the drastic changes that will completely change my life well before my time is up.",
     "Even though my doctors tell me I have about 24 months to live, I wonder how many days will be spent actually living, and how many will be spent waiting for the end.",
-    "They tell me I have about 24 months to live, but I don't want to wait around that long only to deteriorate into a shadow of my former self.",
     "Several doctors have told me that I have 24 months left - give or take. But I ask myself, what will those 24 months be like? Who will I be at the end? I want people to remember me as I am now, not the wreck I'll be in my final moments.",
-    "I’ve been diagnosed with only about 24 months to live. I’m exhausted from endless follow-up visits, dragging my damaged body from one appointment to another, and I can’t do the things a healthy person can anymore.",
-    "I was told I have only about 24 months left. I don’t want to waste my time with the constant appointments and experimental treatments – it hurts to see myself unable to live as the person I remember being."
+    "I’ve been diagnosed with only about 24 months to live. I’m exhausted from endless follow-up visits, dragging my damaged body from one appointment to another, and I can’t do the things a healthy person can anymore."
   ]
 }

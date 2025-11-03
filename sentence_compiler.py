@@ -22,7 +22,7 @@ def build_vignettes_spreadsheet():
     
     # IMPORTANT: Change the file name here based on the type of structure required
     # E.G. 'sentence_structure1.json' or 'sentence_structure2.json'
-    structure_doc = 'sentence_structure_2.json'
+    structure_doc = 'sentence_structure_4cat.json'
     # 1. Load the data files
     sentence_bank = load_json_file('sentences.json')
     # IMPORTANT: Change the file name here based on the type of structure required
@@ -35,7 +35,7 @@ def build_vignettes_spreadsheet():
     if not sentence_bank or not vignette_structures:
         return
 
-    print("Successfully loaded 'sentences.json' and 'vignettes.json'.")
+    print("Successfully loaded sentences and structure.")
     
     # This list will hold all the row data for our spreadsheet
     all_vignette_data = []
@@ -98,10 +98,8 @@ def build_vignettes_spreadsheet():
         "Category 2", "Index 2", "Sentence 2",
         "Category 3", "Index 3", "Sentence 3",
         "Category 4", "Index 4", "Sentence 4",
-        "Category 5", "Index 5", "Sentence 5",
         "Full Vignette"
     ]
-    
     # Create the pandas DataFrame
     df = pd.DataFrame(all_vignette_data, columns=column_names)
 
